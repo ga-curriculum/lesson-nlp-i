@@ -40,7 +40,7 @@
 
 > **Total Time: 90 mins**
 
-I. **Pre-Processing** (30 minutes total)
+I. **Pre-Processing** (45 minutes total)
 - Tokenizing
 - Lemmatizing
 - Stemming
@@ -48,7 +48,7 @@ I. **Pre-Processing** (30 minutes total)
 
 II. **Sentiment Analysis** (30 minutes total)
 
-III. **Word Vectors** (30 minutes total)
+III. **Word Vectors** (15 minutes total)
 
 ---
 
