@@ -42,9 +42,7 @@ I. **Pre-Processing** (45 minutes total)
 - Stemming
 - Regular Expression
 
-II. **Sentiment Analysis** (30 minutes total)
-
-III. **Word Vectors** (15 minutes total)
+II. **Sentiment Analysis** (45 minutes total)
 
 ---
 
