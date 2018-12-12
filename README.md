@@ -1,6 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 5.05 - Natural Language Processing II
-
-> Week 5, Lesson 5
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Natural Language Processing I
 
 ---
 
@@ -9,7 +7,7 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | NLP II Notebook | [Link](./5.05-nlp-ii-notes.ipynb)|
+| Lesson | NLP I Notebook | [Link](./starter-code.ipynb)|
 
 > **Dataset description:** Movie Reviews
 
@@ -22,7 +20,6 @@
 2. **Describe** what RegEx does.
 3. **Apply** sentiment analysis.
 4. **Preprocess** text data.
-5. **Interpret** word vectors.
 
 
 ---
@@ -32,7 +29,6 @@
 *Before this lesson(s), students should already be able to:*
 
 1. Construct linear and logistic regression models.
-2. Describe and implement CountVectorizer, n-grams, stopwords, tf-idf.
 
 ---
 
@@ -55,12 +51,15 @@ III. **Word Vectors** (15 minutes total)
 ## OPTIONAL: Resources for Practice and Learning
 
 *For supplemental reading material on this topic, check out the following resources:*
-- [Word Vectors!](https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/)
-- [Word2Vec in gensim](https://radimrehurek.com/gensim/models/word2vec.html)
-- [Word2Vec in TensorFlow](https://www.tensorflow.org/tutorials/word2vec)
-- [Wikipedia Article on Word2Vec](https://en.wikipedia.org/wiki/Word2vec)
+- ["The Great AI Awakening" by The New York Times Magazine](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html)
 - [Python RegEx library (re)](https://docs.python.org/3/library/re.html)
 - [Regular Expressions Wikipedia Article](https://en.wikipedia.org/wiki/Regular_expression#Patterns_for_non-regular_languages)
 - [RegEx Cheat Sheet](http://www.rexegg.com/regex-quickstart.html)
 - [RegExr - Learn, Build, and Test your RegEx](https://regexr.com/)
+- [Stanford NLP: Difference between Stemming and Lemmatization](https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html)
+- [Porter's Stemmer Algorithm Paper](https://www.cs.toronto.edu/~frank/csc2501/Readings/R2_Porter/Porter-1980.pdf)
+- [Word Vectors!](https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/)
+- [Word2Vec in gensim](https://radimrehurek.com/gensim/models/word2vec.html)
+- [Word2Vec in TensorFlow](https://www.tensorflow.org/tutorials/word2vec)
+- [Wikipedia Article on Word2Vec](https://en.wikipedia.org/wiki/Word2vec)
 ---
