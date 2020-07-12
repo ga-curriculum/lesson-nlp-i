@@ -48,6 +48,7 @@ II. **Sentiment Analysis** (45 minutes total)
 ## OPTIONAL: Resources for Practice and Learning
 
 *For supplemental reading material on this topic, check out the following resources:*
+- Text Analytics with Python by Dipanjan Sarkar
 - ["The Great AI Awakening" by The New York Times Magazine](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html)
 - [Python RegEx library (re)](https://docs.python.org/3/library/re.html)
 - [Regular Expressions Wikipedia Article](https://en.wikipedia.org/wiki/Regular_expression#Patterns_for_non-regular_languages)
