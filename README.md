@@ -2,17 +2,6 @@
 
 ---
 
-## Materials We Provide
-
-
-| Topic | Description | Link |
-| --- | --- | --- |
-| Lesson | NLP I Notebook | [Link](./starter-code.ipynb)|
-
-> **Dataset description:** Movie Reviews
-
----
-
 ## Learning Objectives
 
 *After this lesson, students will be able to:*
